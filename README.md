@@ -2,6 +2,8 @@
 
 ​​Move 語言開發實作工作坊
 
+source: https://github.com/Liquidlink-Lab/IOTA-move-workshop-2025
+
 ## setup env
 
 [note](./setup.md)
